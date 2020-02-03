@@ -1,9 +1,9 @@
 import { Component, OnInit } from '@angular/core';
 
 @Component({
-  selector: 'app-mainframe',
-  templateUrl: './mainframe.component.html',
-  styleUrls: ['./mainframe.component.scss']
+  selector: 'main-frame',
+  templateUrl: './main-frame.component.html',
+  styleUrls: ['./main-frame.component.scss']
 })
 export class MainframeComponent implements OnInit {
 
